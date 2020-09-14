@@ -1,0 +1,13 @@
+.profile {
+  height: 100vh;
+}
+
+.profile-row {
+  height: 50%;
+}
+
+.col-6 {
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
+}
